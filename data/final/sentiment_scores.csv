@@ -1,0 +1,15 @@
+Acquirer,Target,Headline,Source,PredictedSentiment,PositiveScore,NegativeScore,NeutralScore
+Google,Android,Google acquires Android Inc.,Google Press Release,neutral,0.0532306507229805,0.04362645000219345,0.9031428694725037
+Google,YouTube,Google to acquire YouTube for $1.65 billion in stock.,Google Press Release,neutral,0.05419240519404411,0.012386735528707504,0.9334208369255066
+Google,DoubleClick,Google signs agreement to acquire DoubleClick.,Google Press Release,neutral,0.4667789936065674,0.020189566537737846,0.5130314230918884
+Google,Postini,Google completes acquisition of Postini.,Google Press Release,neutral,0.06153398007154465,0.03315391764044762,0.9053120613098145
+Google,reCAPTCHA,Google acquires reCAPTCHA to improve web security.,Google Official Blog,positive,0.5668840408325195,0.015070369467139244,0.4180455505847931
+Google,AdMob,Google to acquire AdMob.,Google Press Release,neutral,0.04081251472234726,0.014719998463988304,0.9444674849510193
+Google,Aardvark,Google acquires Aardvark to strengthen social search.,Google Official Blog,positive,0.5663209557533264,0.018895968794822693,0.4147830903530121
+Google,ITA Software,Google to acquire ITA Software.,Google Press Release,neutral,0.05419701710343361,0.016074569895863533,0.9297283887863159
+Google,Motorola Mobility,Google to acquire Motorola Mobility for $12.5 billion.,Google Press Release,neutral,0.05341105908155441,0.014465469866991043,0.9321234822273254
+Google,Waze,Google acquires Waze to improve maps and navigation.,Google Official Blog,neutral,0.2861834168434143,0.012677392922341824,0.7011392116546631
+Google,DeepMind,Google acquires artificial intelligence company DeepMind.,Google Official Blog,neutral,0.10769817978143692,0.03750080615282059,0.8548010587692261
+Google,Looker,Google Cloud acquires Looker.,Google Cloud Blog,neutral,0.036868274211883545,0.03159016743302345,0.9315415620803833
+Google,Fitbit,Google to acquire Fitbit.,Google Press Release,neutral,0.046605758368968964,0.013035647571086884,0.940358579158783
+Google,Mandiant,Google Cloud to acquire Mandiant.,Google Cloud Blog,neutral,0.05063341557979584,0.013485018163919449,0.9358816146850586

@@ -1,0 +1,50 @@
+Acquirer,Target,DealValueUSD_Million,TargetIndustry,TargetCountry
+Google,Android,50,Mobile Operating System,United States
+Google,YouTube,1650,Video Sharing,United States
+Google,DoubleClick,3100,Online Advertising,United States
+Google,Postini,625,Email Security,United States
+Google,reCAPTCHA,,Cybersecurity,United States
+Google,AdMob,750,Mobile Advertising,United States
+Google,Aardvark,50,Question and Answer Platform,United States
+Google,ITA Software,700,Travel Technology,United States
+Google,Motorola Mobility,12500,Mobile Hardware,United States
+Google,Waze,1150,Navigation Software,Israel
+Google,DeepMind,500,Artificial Intelligence,United Kingdom
+Google,Looker,2600,Business Intelligence,United States
+Google,Fitbit,2100,Wearables,United States
+Google,Mandiant,5400,Cybersecurity,United States
+Microsoft,Skype,,, 
+Microsoft,Yammer,1200,Enterprise Social Network,United States
+Microsoft,Nokia Devices,7200,Mobile Hardware,Finland
+Microsoft,Mojang,2500,Video Games,Sweden
+Microsoft,LinkedIn,26200,Professional Networking,United States
+Microsoft,GitHub,7500,Software Development,United States
+Microsoft,PlayFab,,Game Development Platform,United States
+Microsoft,Affirmed Networks,1350,Telecommunications,United States
+Microsoft,Nuance,19700,Artificial Intelligence,United States
+Microsoft,Activision Blizzard,68700,Video Games,United States
+Apple,PrimeSense,360,3D Sensing Technology,Israel
+Apple,Beats Electronics,3000,Consumer Electronics,United States
+Apple,Shazam,400,Music Recognition,United Kingdom
+Apple,Intel Smartphone Modem Business,1000,Semiconductors,United States
+Apple,AI Music,100,Artificial Intelligence,United Kingdom
+Amazon,Twitch,970,Live Streaming,United States
+Amazon,Whole Foods,13700,Grocery Retail,United States
+Amazon,Ring,1000,Smart Home Technology,United States
+Amazon,Zoox,1200,Autonomous Vehicles,United States
+Amazon,One Medical,3900,Healthcare,United States
+Meta,Instagram,1000,Photo Sharing,United States
+Meta,Face.com,100,Facial Recognition,Israel
+Meta,WhatsApp,19000,Messaging Platform,United States
+Meta,Oculus VR,2000,Virtual Reality,United States
+Meta,Giphy,400,GIF Platform,United States
+Tata Steel,Corus,12100,Steel Manufacturing,United Kingdom
+Reliance,Netmeds,83,Online Pharmacy,India
+Reliance,Urban Ladder,25,Furniture Retail,India
+Reliance,Just Dial,470,Local Search Services,India
+Infosys,WongDoody,75,Digital Marketing,United States
+Infosys,GuideVision,30,SAP Consulting,Czech Republic
+Infosys,BASE life science,110,Life Sciences Consulting,Denmark
+Wipro,Designit,94,Strategic Design,Denmark
+Wipro,Capco,1450,Financial Consulting,United Kingdom
+Wipro,Rizing,540,SAP Consulting,United States

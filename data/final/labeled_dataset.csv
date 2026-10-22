@@ -1,0 +1,50 @@
+Acquirer,Target,Date,Ticker,Return (%),Label
+Google,Android,2005-08-17,GOOG,8.6,1
+Google,YouTube,2006-10-09,GOOG,15.4,1
+Google,DoubleClick,2007-04-13,GOOG,3.7,1
+Google,Postini,2007-07-09,GOOG,-8.23,0
+Google,reCAPTCHA,2009-09-16,GOOG,10.65,1
+Google,AdMob,2009-11-09,GOOG,6.86,1
+Google,Aardvark,2010-02-11,GOOG,4.9,1
+Google,ITA Software,2010-07-01,GOOG,10.66,1
+Google,Motorola Mobility,2011-08-15,GOOG,-3.21,0
+Google,Waze,2013-06-11,GOOG,2.62,1
+Google,DeepMind,2014-01-26,GOOG,8.97,1
+Google,Looker,2019-06-06,GOOG,8.21,1
+Google,Fitbit,2019-11-01,GOOG,6.86,1
+Google,Mandiant,2022-03-08,GOOG,0.76,1
+Microsoft,Skype,2011-05-10,MSFT,-3.97,0
+Microsoft,Yammer,2012-06-25,MSFT,1.31,1
+Microsoft,Nokia Devices,2013-09-03,MSFT,8.19,1
+Microsoft,Mojang,2014-09-15,MSFT,-0.71,0
+Microsoft,LinkedIn,2016-06-13,MSFT,13.2,1
+Microsoft,GitHub,2018-06-04,MSFT,4.21,1
+Microsoft,PlayFab,2018-01-29,MSFT,0.52,1
+Microsoft,Affirmed Networks,2020-03-26,MSFT,18.3,1
+Microsoft,Nuance,2021-04-12,MSFT,-2.0,0
+Microsoft,Activision Blizzard,2022-01-18,MSFT,-0.81,0
+Apple,PrimeSense,2013-11-24,AAPL,2.44,1
+Apple,Beats Electronics,2014-05-28,AAPL,6.61,1
+Apple,Shazam,2017-12-11,AAPL,-0.9,0
+Apple,Intel Smartphone Modem Business,2019-07-25,AAPL,3.01,1
+Apple,AI Music,2022-02-07,AAPL,-1.65,0
+Amazon,Twitch,2014-08-25,AMZN,-5.1,0
+Amazon,Whole Foods,2017-06-16,AMZN,0.01,1
+Amazon,Ring,2018-02-27,AMZN,-5.62,0
+Amazon,Zoox,2020-06-26,AMZN,16.91,1
+Amazon,One Medical,2022-07-21,AMZN,2.56,1
+Meta,Instagram,2012-04-09,META,-19.51,0
+Meta,Face.com,2012-06-18,META,-30.88,0
+Meta,WhatsApp,2014-02-19,META,-7.85,0
+Meta,Oculus VR,2014-03-25,META,-11.56,0
+Meta,Giphy,2020-05-15,META,4.63,1
+Tata Steel,Corus,2007-01-31,TATASTEEL.NS,-6.81,0
+Reliance,Netmeds,2020-08-18,RELIANCE.NS,5.97,1
+Reliance,Urban Ladder,2020-09-26,RELIANCE.NS,-5.94,0
+Reliance,Just Dial,2021-07-16,RELIANCE.NS,6.9,1
+Infosys,WongDoody,2018-04-24,INFY.NS,7.18,1
+Infosys,GuideVision,2020-09-08,INFY.NS,22.26,1
+Infosys,BASE life science,2022-09-13,INFY.NS,-1.36,0
+Wipro,Designit,2015-07-01,WIPRO.NS,4.52,1
+Wipro,Capco,2021-03-04,WIPRO.NS,10.9,1
+Wipro,Rizing,2022-04-26,WIPRO.NS,-11.12,0

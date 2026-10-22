@@ -1,0 +1,58 @@
+Acquirer,Target,Date,Ticker
+Google,Android,2005-08-17,GOOG
+Google,YouTube,2006-10-09,GOOG
+Google,DoubleClick,2007-04-13,GOOG
+Google,Postini,2007-07-09,GOOG
+Google,reCAPTCHA,2009-09-16,GOOG
+Google,AdMob,2009-11-09,GOOG
+Google,Aardvark,2010-02-11,GOOG
+Google,ITA Software,2010-07-01,GOOG
+Google,Motorola Mobility,2011-08-15,GOOG
+Google,Waze,2013-06-11,GOOG
+Google,DeepMind,2014-01-26,GOOG
+Google,Looker,2019-06-06,GOOG
+Google,Fitbit,2019-11-01,GOOG
+Google,Mandiant,2022-03-08,GOOG
+
+Microsoft,Skype,2011-05-10,MSFT
+Microsoft,Yammer,2012-06-25,MSFT
+Microsoft,Nokia Devices,2013-09-03,MSFT
+Microsoft,Mojang,2014-09-15,MSFT
+Microsoft,LinkedIn,2016-06-13,MSFT
+Microsoft,GitHub,2018-06-04,MSFT
+Microsoft,PlayFab,2018-01-29,MSFT
+Microsoft,Affirmed Networks,2020-03-26,MSFT
+Microsoft,Nuance,2021-04-12,MSFT
+Microsoft,Activision Blizzard,2022-01-18,MSFT
+
+Apple,PrimeSense,2013-11-24,AAPL
+Apple,Beats Electronics,2014-05-28,AAPL
+Apple,Shazam,2017-12-11,AAPL
+Apple,Intel Smartphone Modem Business,2019-07-25,AAPL
+Apple,AI Music,2022-02-07,AAPL
+
+Amazon,Twitch,2014-08-25,AMZN
+Amazon,Whole Foods,2017-06-16,AMZN
+Amazon,Ring,2018-02-27,AMZN
+Amazon,Zoox,2020-06-26,AMZN
+Amazon,One Medical,2022-07-21,AMZN
+
+Meta,Instagram,2012-04-09,META
+Meta,Face.com,2012-06-18,META
+Meta,WhatsApp,2014-02-19,META
+Meta,Oculus VR,2014-03-25,META
+Meta,Giphy,2020-05-15,META
+
+Tata Steel,Corus,2007-01-31,TATASTEEL.NS
+
+Reliance,Netmeds,2020-08-18,RELIANCE.NS
+Reliance,Urban Ladder,2020-09-26,RELIANCE.NS
+Reliance,Just Dial,2021-07-16,RELIANCE.NS
+
+Infosys,WongDoody,2018-04-24,INFY.NS
+Infosys,GuideVision,2020-09-08,INFY.NS
+Infosys,BASE life science,2022-09-13,INFY.NS
+
+Wipro,Designit,2015-07-01,WIPRO.NS
+Wipro,Capco,2021-03-04,WIPRO.NS
+Wipro,Rizing,2022-04-26,WIPRO.NS
